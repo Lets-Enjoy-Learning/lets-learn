@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home",
+    "currentPage": "home.html",
     "name": "enjoylearning",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
     "noImageResize": ""
   },
   "pages": {
-    "home": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Hello",
